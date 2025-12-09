@@ -141,4 +141,3 @@ mysql -u root -p < database/schema.sql
 - Prueba conectarte manualmente: `mysql -u root -p`
 
 
-

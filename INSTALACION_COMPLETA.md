@@ -88,4 +88,3 @@ Tu aplicación SIGIA está completamente configurada y lista para usar.
 
 ¡Disfruta gestionando tu inventario! 📦
 
-

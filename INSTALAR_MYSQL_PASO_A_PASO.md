@@ -211,4 +211,3 @@ Ejecuta:
 3. Verifica que la base de datos exista: `mysql -u root -p -e "SHOW DATABASES;"`
 
 
-

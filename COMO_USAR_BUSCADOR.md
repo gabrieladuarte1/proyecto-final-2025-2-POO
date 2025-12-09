@@ -104,4 +104,3 @@ Para configurar MySQL, sigue las instrucciones en `README.md` o `INSTRUCCIONES.m
 - ✅ Puedes ver: ID, Nombre, Descripción, Categoría, Cantidad, Precio
 
 
-

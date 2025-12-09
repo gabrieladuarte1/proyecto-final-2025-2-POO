@@ -96,4 +96,3 @@ La aplicación puede funcionar sin MySQL para ver la interfaz, pero necesitarás
 - Revisa `INSTRUCCIONES.md` para configuración paso a paso
 
 
-

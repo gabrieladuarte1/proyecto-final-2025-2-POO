@@ -256,4 +256,3 @@ Para que SIGIA funcione completamente necesitas:
 
 ¡Pero una vez configures MySQL, todo funcionará perfectamente! 🚀
 
-

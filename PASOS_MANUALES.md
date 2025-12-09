@@ -186,4 +186,3 @@ Luego actualiza `ConexionBD.java` con la nueva contraseña.
 
 **¡Y listo!** 🚀
 
-

@@ -99,4 +99,3 @@ INSERT INTO clientes (nombre, contacto, telefono, email) VALUES
 ('Agricultura Moderna', 'Ana Martínez', '3209876543', 'info@agrimoderna.com');
 
 
-

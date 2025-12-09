@@ -64,4 +64,3 @@ public class Venta extends Transaccion {
 }
 
 
-

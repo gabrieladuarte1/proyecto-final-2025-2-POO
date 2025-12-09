@@ -25,4 +25,3 @@ else
     java -cp "build/classes:$DRIVER" co.edu.sigia.Main
 fi
 
-

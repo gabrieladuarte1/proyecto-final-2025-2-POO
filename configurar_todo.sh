@@ -58,4 +58,3 @@ echo "2. Colócalo en: lib/mysql-connector-j-8.0.33.jar"
 echo "3. Ejecuta: ./ejecutar_con_mysql.sh"
 echo ""
 
-

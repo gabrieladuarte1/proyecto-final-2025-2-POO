@@ -60,4 +60,3 @@ echo ""
 echo "Luego ejecuta: ./ejecutar_con_mysql.sh"
 echo ""
 
-

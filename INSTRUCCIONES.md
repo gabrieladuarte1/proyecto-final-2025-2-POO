@@ -135,4 +135,3 @@ El sistema crea automáticamente las siguientes tablas:
 Para problemas o dudas sobre el sistema, consulta la documentación en el README.md principal.
 
 
-

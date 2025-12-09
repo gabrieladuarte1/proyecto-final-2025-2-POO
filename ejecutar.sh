@@ -25,4 +25,3 @@ echo ""
 java -cp build/classes co.edu.sigia.Main
 
 
-

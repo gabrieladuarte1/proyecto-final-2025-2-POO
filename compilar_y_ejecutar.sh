@@ -92,4 +92,3 @@ fi
 java -cp "$CLASSPATH" co.edu.sigia.Main 2>&1
 
 
-

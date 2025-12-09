@@ -128,4 +128,3 @@ Después de configurar MySQL:
 - Verifica los logs en la terminal para más detalles del error
 
 
-

@@ -78,4 +78,3 @@ Solo falta descargar el driver MySQL Connector y copiarlo a la carpeta `lib/`
 
 ¡Ya casi está todo listo! 🚀
 
-
