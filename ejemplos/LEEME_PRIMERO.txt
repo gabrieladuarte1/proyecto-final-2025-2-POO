@@ -1,0 +1,46 @@
+==========================================
+ARCHIVOS DE EJEMPLO PARA SIGIA
+==========================================
+
+ARCHIVOS RECOMENDADOS (más fáciles de abrir):
+
+1. productos_ejemplo_FINAL.csv
+2. compras_ejemplo_FINAL.csv
+3. ventas_ejemplo_FINAL.csv
+
+==========================================
+CÓMO ABRIR EN EXCEL:
+==========================================
+
+OPCIÓN 1 - Doble clic:
+- Haz doble clic en el archivo .csv
+- Excel se abrirá automáticamente
+- Si aparece un asistente, selecciona "Delimitado" y "Coma"
+
+OPCIÓN 2 - Desde Excel:
+1. Abre Excel
+2. Archivo → Abrir
+3. Selecciona el archivo .csv
+4. En el asistente:
+   - Selecciona "Delimitado"
+   - Marca "Coma"
+   - Finalizar
+
+OPCIÓN 3 - Archivos .txt (alternativa):
+- Usa los archivos .txt si los .csv no funcionan
+- Se abren igual pero con tabulaciones
+
+==========================================
+USAR EN SIGIA:
+==========================================
+
+1. Abre la aplicación SIGIA
+2. Ve a "Utilidades" → "Carga Masiva de Datos"
+3. Selecciona el tipo de importación
+4. Elige el archivo .csv (NO el .xlsx si lo creaste)
+
+NOTA: SIGIA necesita archivos CSV, no Excel (.xlsx)
+Si editas en Excel, guárdalo como CSV antes de importar.
+
+==========================================
+
